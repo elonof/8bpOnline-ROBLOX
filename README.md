@@ -1,8 +1,13 @@
-# 8bpOnline-ROBLOX
+# Update (April 10, 2023)
+This project is no longer actively maintained, and will not receive any further updates or bug fixes. However, you're still welcome to use the script or codebase as a reference or starting point for your own projects.
+
+Thank you for your interest in this project, and I hope you find it useful!
+
+#### 8bpOnline-ROBLOX
 Scripts for 8 Ball Pool Online Roblox.
 
 
-# Scripts
+#### Scripts
 > Streamable:
 ```lua
 --[[
